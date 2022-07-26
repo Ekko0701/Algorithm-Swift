@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6AD0044928900C6600FD23EA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD0044828900C6600FD23EA /* main.swift */; };
+		6AD0045528901AC200FD23EA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD0045428901AC200FD23EA /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,9 @@
 
 /* Begin PBXFileReference section */
 		6AD0044528900C6600FD23EA /* Algorithm Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6AD0044828900C6600FD23EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		6AD0044F28900CF300FD23EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6AD0045028900D5E00FD23EA /* Basic_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basic_1.swift; sourceTree = "<group>"; };
+		6AD0045428901AC200FD23EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		6AD0043C28900C6600FD23EA = {
 			isa = PBXGroup;
 			children = (
+				6AD0044F28900CF300FD23EA /* README.md */,
 				6AD0044728900C6600FD23EA /* Algorithm Swift */,
 				6AD0044628900C6600FD23EA /* Products */,
 			);
@@ -57,7 +60,8 @@
 		6AD0044728900C6600FD23EA /* Algorithm Swift */ = {
 			isa = PBXGroup;
 			children = (
-				6AD0044828900C6600FD23EA /* main.swift */,
+				6AD0045028900D5E00FD23EA /* Basic_1.swift */,
+				6AD0045428901AC200FD23EA /* main.swift */,
 			);
 			path = "Algorithm Swift";
 			sourceTree = "<group>";
@@ -120,7 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6AD0044928900C6600FD23EA /* main.swift in Sources */,
+				6AD0045528901AC200FD23EA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
