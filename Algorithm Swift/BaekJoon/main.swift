@@ -1,9 +1,9 @@
 //
 //  main.swift
 //  Algorithm Swift
-//
-//  Created by Ekko on 2022/08/02.
-//
+//  BaekJoon
+//  10799 - 쇠막대기
 
 import Foundation
 
+print("Hello Ekko")
