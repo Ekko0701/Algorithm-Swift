@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6A982F022898C3B500FD1B12 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		6A982F022898C3B500FD1B12 /* 10866_덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866_덱.swift"; sourceTree = "<group>"; };
 		6AD0044528900C6600FD23EA /* Algorithm Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD0044F28900CF300FD23EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6AD0045028900D5E00FD23EA /* Basic_1_ReadLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basic_1_ReadLine.swift; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 		6AD0045C289283D000FD23EA /* BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
-				6A982F022898C3B500FD1B12 /* main.swift */,
+				6A982F022898C3B500FD1B12 /* 10866_덱.swift */,
 				6AD0045E2892D6DC00FD23EA /* 1874_스택 수열.swift */,
 				6AD004562891EBC000FD23EA /* 10828_스택.swift */,
 				6AD0045828926B0400FD23EA /* 9093_단어 뒤집기.swift */,
