@@ -22,7 +22,7 @@ while !(arr.isEmpty) {
 
 print("<" + result.map{ String($0) }.joined(separator: ", ") + ">")
 
-
+// g
 // 풀이 2
 /*
 struct Queue {
