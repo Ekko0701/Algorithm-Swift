@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		6A2C9B7D289AD125000C4FD1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2C9B7C289AD125000C4FD1 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		6AD0044328900C6600FD23EA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -26,7 +22,7 @@
 		6A2C9B772899B4DC000C4FD1 /* 10799_쇠막대기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10799_쇠막대기.swift"; sourceTree = "<group>"; };
 		6A2C9B79289A6F87000C4FD1 /* 17298_오큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17298_오큰수.swift"; sourceTree = "<group>"; };
 		6A2C9B7B289AA0AC000C4FD1 /* 1935_후위 표기식 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935_후위 표기식 2.swift"; sourceTree = "<group>"; };
-		6A2C9B7C289AD125000C4FD1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		6A2C9B7C289AD125000C4FD1 /* 17299_오등큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17299_오등큰수.swift"; sourceTree = "<group>"; };
 		6A982F022898C3B500FD1B12 /* 10866_덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866_덱.swift"; sourceTree = "<group>"; };
 		6AD0044528900C6600FD23EA /* Algorithm Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD0044F28900CF300FD23EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -94,7 +90,7 @@
 				6A2C9B772899B4DC000C4FD1 /* 10799_쇠막대기.swift */,
 				6A2C9B79289A6F87000C4FD1 /* 17298_오큰수.swift */,
 				6A2C9B7B289AA0AC000C4FD1 /* 1935_후위 표기식 2.swift */,
-				6A2C9B7C289AD125000C4FD1 /* main.swift */,
+				6A2C9B7C289AD125000C4FD1 /* 17299_오등큰수.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -167,7 +163,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A2C9B7D289AD125000C4FD1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
